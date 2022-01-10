@@ -4,10 +4,10 @@
 ## Burçlar hakkında
 ### Github sayfasıdır
 
-Bu sayfa içersisinde 
+Bu sayfa içerisinde 
 * Burçlar hakkında bilgiler
 * Günlük burç yorumları
 * Yükselen burçlar hakkında bilgiler
-Paylaşılmaktadır
+paylaşılmaktadır
 
-Sayfa yönetimi [Elif GÜLTEKİN] Tarafından yapılmaktadır.
+Sayfa yönetimi Elif GÜLTEKİN Tarafından yapılmaktadır.
